@@ -1,2 +1,4 @@
 .DS_Store
-*.html
+.html
+_site/assets/js/search-data.json
+_site/*.html
