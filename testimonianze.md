@@ -14,3 +14,11 @@ Inviteremo gli ospiti anche in base al vostro interesse.
 
 [Compila il questionario](https://docs.google.com/forms/d/e/1FAIpQLSf-hUjaxFrClq1hq0i6jV3KsP2zQ5m7xU91L_ml7BaxLtOmXQ/viewform){: .btn .btn-blue }
 
+
+## Calendario Testimonianze
+
+
+{% assign instructors = site.staffers | where: 'role', 'Testimonianza' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
