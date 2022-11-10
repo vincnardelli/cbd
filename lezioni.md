@@ -3,7 +3,7 @@ layout: page
 title: Lezioni
 permalink: /lezioni/
 description: A feed containing all of the class announcements.
-nav_order: 2
+nav_order: 1
 ---
 
 # 👨🏻‍🏫 Lezioni
