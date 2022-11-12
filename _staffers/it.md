@@ -2,7 +2,8 @@
 name: Ilaria Taddei
 role: Testimonianza
 website: https://www.linkedin.com/in/ilaria-taddei-507547157/
-photo: lga.jpg
+photo: it.jpg
+id: 1
 ---
 
 Data Scientist - [Eurecat Technologies](https://eurecat.org/)

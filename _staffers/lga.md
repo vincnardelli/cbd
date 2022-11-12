@@ -3,6 +3,7 @@ name: Luigi Giuseppe Atzeni
 role: Testimonianza
 website: https://www.linkedin.com/in/luigigiuseppeatzeni/
 photo: lga.jpg
+id: 2
 ---
 
 Web Analytics Senior Consultant - [Jakala](https://www.jakala.com/)
