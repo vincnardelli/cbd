@@ -23,7 +23,46 @@ Per iscriversi all’esame nella modalità Progetto di gruppo sarà necessario c
 Successivamente sarà necessario iscriversi ad uno degli appelli delle sessioni ufficiali per poter registrare il voto. 
 
 
-In base alle iscrizioni e alle preferenze indicate nel questionario sulle testimonianze, saranno generati casualmente i gruppi di lavoro di una dimensione tra i 3 e 5 componenti a cui sarà assegnato un problema da risolvere in un determinato ambito come ad esempio sanità, finanza, marketing, ecommerce, startup.
+In base alle iscrizioni e alle preferenze indicate nel questionario sulle testimonianze, sono stati generati casualmente i gruppi di lavoro di una dimensione tra i 3 e 5 componenti a cui sarà assegnato un problema da risolvere in un determinato ambito come ad esempio sanità, finanza, marketing.
+
+|     Nome                      |     Gruppo di lavoro    |
+|-------------------------------|-------------------------|
+|     Chiara De   Grandis       |     Finanza             |
+|     Giulio   Paolini          |     Finanza             |
+|     Matteo   Punzo            |     Finanza             |
+|     Tommaso   Castorina       |     Finanza             |
+|     Vincenzo   Nicosia        |     Finanza             |
+|     Andrea Mione              |     Marketing 1         |
+|     Anna Dianda               |     Marketing 1         |
+|     Antonio Fiscini           |     Marketing 1         |
+|     Eritrea Pia   Tatulli     |     Marketing 1         |
+|     Alessandro   Carletti     |     Marketing 2         |
+|     Gabriele   Pietrangelo    |     Marketing 2         |
+|     Giuseppe   Cataldi        |     Marketing 2         |
+|     Vanessa   Molinari        |     Marketing 2         |
+|     Edoardo   Musciacchio     |     Marketing 3         |
+|     Flavio Statelli           |     Marketing 3         |
+|     Giuseppe Savona           |     Marketing 3         |
+|     Valentina Quattrone       |     Marketing 3         |
+|     Achille Pio   Farina      |     Sanita              |
+|     Alessio   Pedano          |     Sanita              |
+|     Ludovico   Pirro          |     Sanita              |
+|     Michele Pio Bottalico     |     Sanita              |
+
+
+## 👨🏻‍🏫 Consegna e dati
+
+[Consegna progetto di gruppo]({{site.baseurl}}/materiale_progetti/consegna.pdf){: .btn .btn-blue }
+
+| Gruppo      | Dati                     |
+|-------------|--------------------------|
+| Finanza     | [finance_default.csv]({{site.baseurl}}/materiale_progetti/finance_default.csv)      |
+| Marketing 1 | [food_delivery.csv]({{site.baseurl}}/materiale_progetti/food_delivery.csv)      |
+| Marketing 2 | [franchising_sales.csv]({{site.baseurl}}/materiale_progetti/franchising_sales.csv)      |
+| Marketing 3 | [acquisizione_clienti.csv]({{site.baseurl}}/materiale_progetti/acquisizione_clienti.csv)      |
+| Sanità      | [heart_disease.csv]({{site.baseurl}}/materiale_progetti/heart_disease.csv)      |
+
+
 
 
 ## 📕 In cosa consiste
