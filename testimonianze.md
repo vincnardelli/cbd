@@ -18,7 +18,7 @@ Inviteremo gli ospiti anche in base al vostro interesse.
 ## Calendario Testimonianze
 
 
-{% assign instructors = site.staffers | where: 'role', 'Testimonianza' | sort: 'id' %}
+{% assign instructors = site.staffers | sort: "id" | where: 'role', 'Testimonianza' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
