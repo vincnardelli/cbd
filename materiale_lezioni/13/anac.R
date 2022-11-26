@@ -1,22 +1,7 @@
 ## Esercitazione Anac
 library(dplyr)
 library(ggplot2)
-
-# province <- province %>% 
-#   pivot_longer(ind1:ind8, names_to = "ind")
-# 
-# to_remove <- province %>% 
-#   group_by(cod_provincia) %>% 
-#   summarise(n = n()) %>% 
-#   filter(n > 8) %>% 
-#   pull(cod_provincia)
-# 
-# province <- province %>% 
-#   filter(!(cod_provincia %in% to_remove)) 
-# 
-# write.csv(province, "anac_indicatori_province.csv", row.names = F)
-
-province <- read.csv("~/Desktop/anac_indicatori_province.csv")
+province <- read.csv("data/anac_indicatori_province.csv")
 soglia_di_rischio <- 0.75
 
 province_indicatori <- province %>% 
