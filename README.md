@@ -1,15 +1,15 @@
 ---
 layout: home
-title: Coding e Big Data 2022/2023
+title: Coding e Big Data 2023/2024
 nav_exclude: false
 nav_order: 1
 permalink: index.html
 seo:
-  type: Coding e Big Data 2022/2023
+  type: Coding e Big Data 2023/2024
   name: Economia e Gestione dei Servizi - Università Cattolica del Sacro Cuore
 ---
 
-# 💻 Coding e Big Data 2022/2023
+# 💻 Coding e Big Data 2023/2024
 
 **Coding e Big Data** è un corso facoltativo del corso di laurea triennale in Economia e Gestione dei Servizi dell'Università Cattolica del Sacro Cuore di Roma. Lo scopo del corso è di fornire una conoscenza di base di programmazione e gestione dati ma soprattutto di formare una sensibilità e pensiero critico nei confronti di queste tematiche.
 

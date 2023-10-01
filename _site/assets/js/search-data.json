@@ -1,177 +1,177 @@
 {"0": {
-    "doc": "Corso",
-    "title": "💻 Coding e Big Data 2022/2023",
-    "content": "Coding e Big Data è un corso facoltativo del corso di laurea triennale in Economia e Gestione dei Servizi dell’Università Cattolica di Roma. Lo scopo del corso è di fornire una conoscenza di base di programmazione e gestione dati ma soprattutto di formare una sensibilità e pensiero critico nei confronti di queste tematiche. ",
-    "url": "/cbd/index.html#-coding-e-big-data-20222023",
-    "relUrl": "/index.html#-coding-e-big-data-20222023"
+    "doc": "Coding e Big Data 2023/2024",
+    "title": "💻 Coding e Big Data 2023/2024",
+    "content": "Coding e Big Data è un corso facoltativo del corso di laurea triennale in Economia e Gestione dei Servizi dell’Università Cattolica del Sacro Cuore di Roma. Lo scopo del corso è di fornire una conoscenza di base di programmazione e gestione dati ma soprattutto di formare una sensibilità e pensiero critico nei confronti di queste tematiche. ",
+    "url": "/cbd/index.html#-coding-e-big-data-20232024",
+    "relUrl": "/index.html#-coding-e-big-data-20232024"
   },"1": {
-    "doc": "Corso",
+    "doc": "Coding e Big Data 2023/2024",
     "title": "👩🏻‍💻 Perchè dovrei seguire il corso?",
     "content": "È un corso facoltativo quindi non sei obbigato od obbligata a seguirlo per completare il tuo percorso di studi. Sostenendo l’esame otterrai dei CFU aggiuntivi che ti potranno essere utili per poterti iscrivere ad un particolare corso di laurea magistrale (informati prima che sia troppo tardi!). Tolto questo piccolo vantaggio, dal punto di vista della tua carriera accademica, potrebbe essere il corso più inutile che seguirai. L’unico motivo per cui potrebbe essere utile seguire questo corso è ottenere conoscenza, suggerimenti e idee utili per IL TUO FUTURO. Non importa quale siano le tue ambizioni o progetti per il tuo futuro lavorativo. Viviamo in una società regolata sempre più da algoritmi e dove la conoscenza è generata grazie all’utilizzo massivo di dati. Essere consapevoli di questi strumenti e tecnologie sarà sempre più fondamentale per prendere decisioni nei prossimi anni. ",
     "url": "/cbd/index.html#-perch%C3%A8-dovrei-seguire-il-corso",
     "relUrl": "/index.html#-perchè-dovrei-seguire-il-corso"
   },"2": {
-    "doc": "Corso",
+    "doc": "Coding e Big Data 2023/2024",
     "title": "👩🏻‍🎓 A chi si rivolge il corso?",
     "content": "A studenti e studentesse del corso triennale di Economia. Non ad ingegneri informatici, statistici o data scientists. Si affronteranno tematiche tecniche ovviamente ma sempre legate ad applicazioni che ti potrannno essere utili come ad esempio analisi economiche, marketing, sanità, startup, finanza, criptovalute, istituzioni. ",
     "url": "/cbd/index.html#-a-chi-si-rivolge-il-corso",
     "relUrl": "/index.html#-a-chi-si-rivolge-il-corso"
   },"3": {
-    "doc": "Corso",
+    "doc": "Coding e Big Data 2023/2024",
     "title": "📘 Come è strutturato il corso?",
     "content": "Il programma del corso è un work in progress. I tuoi feedback saranno utilissimi per poter strutturare, settimana dopo settimana, il corso in base alle curiosità e interessi che raccolgo durante le lezioni. ",
     "url": "/cbd/index.html#-come-%C3%A8-strutturato-il-corso",
     "relUrl": "/index.html#-come-è-strutturato-il-corso"
   },"4": {
-    "doc": "Corso",
+    "doc": "Coding e Big Data 2023/2024",
     "title": "📌 Avvisi",
     "content": " ",
     "url": "/cbd/index.html#-avvisi",
     "relUrl": "/index.html#-avvisi"
   },"5": {
-    "doc": "Corso",
-    "title": "Lezione 21/09 sospesa",
-    "content": "Avviso del 05/10/2022 &middot; La lezione di venerdì 21/09/2022 sarà sospesa. ",
-    "url": "/cbd/index.html",
-    "relUrl": "/index.html"
-  },"6": {
-    "doc": "Corso",
-    "title": "Corso",
+    "doc": "Coding e Big Data 2023/2024",
+    "title": "Coding e Big Data 2023/2024",
     "content": " ",
     "url": "/cbd/index.html",
     "relUrl": "/index.html"
-  },"7": {
+  },"6": {
     "doc": "Avvisi",
     "title": "📣 Avvisi",
     "content": " ",
     "url": "/cbd/avvisi/#-avvisi",
     "relUrl": "/avvisi/#-avvisi"
-  },"8": {
-    "doc": "Avvisi",
-    "title": "Lezione 21/09 sospesa",
-    "content": "Avviso del 05/10/2022 &middot; La lezione di venerdì 21/09/2022 sarà sospesa. ",
-    "url": "/cbd/avvisi/",
-    "relUrl": "/avvisi/"
-  },"9": {
+  },"7": {
     "doc": "Avvisi",
     "title": "Avvisi",
     "content": " ",
     "url": "/cbd/avvisi/",
     "relUrl": "/avvisi/"
-  },"10": {
+  },"8": {
     "doc": "Guide",
     "title": "📕 Guide",
     "content": "Guide utili per seguire il corso e risolvere i problemi più comuni sul setup del computer . ",
     "url": "/cbd/guide/#-guide",
     "relUrl": "/guide/#-guide"
-  },"11": {
+  },"9": {
     "doc": "Guide",
     "title": "Guide",
     "content": " ",
     "url": "/cbd/guide/",
     "relUrl": "/guide/"
-  },"12": {
+  },"10": {
     "doc": "Installazione di R e Rstudio",
     "title": "Installazione di R e RStudio",
     "content": " ",
     "url": "/cbd/guide/installazione_r_rstudio#installazione-di-r-e-rstudio",
     "relUrl": "/guide/installazione_r_rstudio#installazione-di-r-e-rstudio"
-  },"13": {
+  },"11": {
     "doc": "Installazione di R e Rstudio",
     "title": "Table of contents",
     "content": ". | Come scaricare e installare R . | R in Windows | R su Mac | R in Linux | . | . Per iniziare ad usare R, devi installarlo sul tuo computer. Questa nota ti mostrerà come scaricare R e RStudio, un’applicazione software che semplifica l’utilizzo di R. Passerai dal download di R all’apertura della tua prima sessione R. ",
     "url": "/cbd/guide/installazione_r_rstudio#table-of-contents",
     "relUrl": "/guide/installazione_r_rstudio#table-of-contents"
-  },"14": {
+  },"12": {
     "doc": "Installazione di R e Rstudio",
     "title": "Come scaricare e installare R",
     "content": "R è gestito da un team internazionale di sviluppatori che rendono disponibile il linguaggio attraverso la pagina web di The Comprehensive R Archive Network, ovvero CRAN. Nella parte superiore della pagina Web sono disponibili tre collegamenti per il download di R. Segui il collegamento che si riferisce al tuo sistema operativo: Windows, Mac o Linux. R in Windows . Per installare R su Windows, fare clic sul collegamento “Download R for Windows”. Quindi fare clic sul link “base”. Quindi, fai clic sul primo collegamento nella parte superiore della nuova pagina. Questo collegamento dovrebbe dire qualcosa come “Download R 3.0.3 for Windows”, tranne per il fatto che la 3.0.3 sarà sostituita dalla versione più recente di R. Il collegamento scarica un programma di installazione, che installa la versione più aggiornata di R per Windows. Esegui questo programma e segui la procedura guidata di installazione che appare. La procedura guidata installerà R nelle cartelle dei file di programma e inserirà un collegamento nel menu Start. Tieni presente che dovrai disporre di tutti i privilegi di amministrazione appropriati per installare nuovo software sul tuo computer. R su Mac . La procedura è molto simile a quella di Windows. Apri il file scaricato e segui le istruzioni di installazione. Consiglio di lasciare le impostazioni suggerite così come sono. R in Linux . R viene preinstallato su molti sistemi Linux, ma se la tua non è aggiornata, ti consiglio la versione più recente di R. Il sito Web CRAN fornisce file per compilare R dal sorgente su sistemi Debian, Redhat, SUSE e Ubuntu sotto il collegamento “Download R for Linux”. Fare clic sul collegamento e quindi seguire il percorso della directory alla versione di Linux su cui si desidera installare. L’esatta procedura di installazione varia a seconda del sistema Linux in uso. CRAN guida il processo raggruppando ogni set di file di origine con documentazione o file README che spiegano come installare sul sistema. ",
     "url": "/cbd/guide/installazione_r_rstudio#come-scaricare-e-installare-r",
     "relUrl": "/guide/installazione_r_rstudio#come-scaricare-e-installare-r"
-  },"15": {
+  },"13": {
     "doc": "Installazione di R e Rstudio",
     "title": "Installazione di R e Rstudio",
     "content": " ",
     "url": "/cbd/guide/installazione_r_rstudio",
     "relUrl": "/guide/installazione_r_rstudio"
-  },"16": {
+  },"14": {
     "doc": "Lezioni",
     "title": "👨🏻‍🏫 Lezioni",
     "content": " ",
     "url": "/cbd/lezioni/#-lezioni",
     "relUrl": "/lezioni/#-lezioni"
-  },"17": {
+  },"15": {
     "doc": "Lezioni",
     "title": "1 - Introduzione al corso",
-    "content": "Lezione del 03/10/2022 - Settimana 1 Slides PDF . | Introduzione al corso | Libro Factfulness di Hans Rosling | Mentire con i grafici / Correlazioni spurie | Analisi dei redditi in Italia (con Excel) | . Link File xlsx Analisi . ",
+    "content": "Lezione del 02/10/2023 - Settimana 1 Slides PDF . | Introduzione al corso | Libro Factfulness di Hans Rosling | Mentire con i grafici / Correlazioni spurie | Analisi dei redditi in Italia (con Excel) | Usare l’intelligenza artificiale per analizzare i dati | Confronto R e Python | . Link File xlsx Analisi . ",
     "url": "/cbd/lezioni/",
     "relUrl": "/lezioni/"
-  },"18": {
-    "doc": "Lezioni",
-    "title": "2 - Introduzione ad R ed RStudio",
-    "content": "Lezione del 07/10/2022 - Settimana 1 . | Installare R ed RStudio Vedi guida | Usare R ed RStudio Vedi guida | Fondamenti di R | If else | Algoritmo di calcolo del BMI | . ",
-    "url": "/cbd/lezioni/",
-    "relUrl": "/lezioni/"
-  },"19": {
+  },"16": {
     "doc": "Lezioni",
     "title": "Lezioni",
     "content": " ",
     "url": "/cbd/lezioni/",
     "relUrl": "/lezioni/"
-  },"20": {
+  },"17": {
     "doc": "Orari",
     "title": "🗓 Orari settimanali",
     "content": "Questo è lo schema degli orari settimanali del corso. Per aggiornamenti visitare la pagina ufficiale del corso su unicatt.it. | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "/cbd/schedule/#-orari-settimanali",
     "relUrl": "/schedule/#-orari-settimanali"
-  },"21": {
+  },"18": {
     "doc": "Orari",
     "title": "Lunedì",
     "content": ". | Lezione 11:00 AM–13:00 AM 200B (modulare) | . | ",
     "url": "/cbd/schedule/",
     "relUrl": "/schedule/"
-  },"22": {
+  },"19": {
     "doc": "Orari",
     "title": "Martedì",
     "content": "| ",
     "url": "/cbd/schedule/",
     "relUrl": "/schedule/"
-  },"23": {
+  },"20": {
     "doc": "Orari",
     "title": "Mercoledì",
     "content": "| ",
     "url": "/cbd/schedule/",
     "relUrl": "/schedule/"
-  },"24": {
+  },"21": {
     "doc": "Orari",
     "title": "Giovedì",
     "content": "| ",
     "url": "/cbd/schedule/",
     "relUrl": "/schedule/"
-  },"25": {
+  },"22": {
     "doc": "Orari",
     "title": "Venerdì",
     "content": ". | Lezione 09:00 AM–11:00 AM 200B (modulare) | . | . ",
     "url": "/cbd/schedule/",
     "relUrl": "/schedule/"
-  },"26": {
+  },"23": {
     "doc": "Orari",
     "title": "Orari",
     "content": " ",
     "url": "/cbd/schedule/",
     "relUrl": "/schedule/"
-  },"27": {
+  },"24": {
     "doc": "Contatti",
     "title": "🧔🏻‍♂️ Chi sono",
     "content": "Vincenzo Nardelli . vincenzo.nardelli@unicatt.it . Fissa un ricevimento . Per il corso non è previsto un orario di ricevimento ma sono a disposizione in aula prima e dopo ogni lezione. Se hai bisogno di un ricevimento puoi richiederlo tramite questa pagina (Google Meet o in presenza) oppure per esigenze particolari puoi contattarmi via mail. ",
     "url": "/cbd/staff/#%EF%B8%8F-chi-sono",
     "relUrl": "/staff/#️-chi-sono"
-  },"28": {
+  },"25": {
     "doc": "Contatti",
     "title": "Contatti",
     "content": " ",
     "url": "/cbd/staff/",
     "relUrl": "/staff/"
+  },"26": {
+    "doc": "Testimonianze",
+    "title": "🧑🏻‍🚀 Testimonianze",
+    "content": "Durante il corso organizzeremo delle lezioni con ospiti che ci racconteranno come utilizzano il codice e i big data nella propria professione. Inviteremo gli ospiti anche in base al vostro interesse. Compila il questionario . ",
+    "url": "/cbd/testimonianze/#-testimonianze",
+    "relUrl": "/testimonianze/#-testimonianze"
+  },"27": {
+    "doc": "Testimonianze",
+    "title": "Calendario Testimonianze",
+    "content": " ",
+    "url": "/cbd/testimonianze/#calendario-testimonianze",
+    "relUrl": "/testimonianze/#calendario-testimonianze"
+  },"28": {
+    "doc": "Testimonianze",
+    "title": "Testimonianze",
+    "content": " ",
+    "url": "/cbd/testimonianze/",
+    "relUrl": "/testimonianze/"
   },"29": {
     "doc": "Usare R e Rstudio",
     "title": "Usare R e RStudio",
