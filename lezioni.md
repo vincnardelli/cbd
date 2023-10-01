@@ -2,7 +2,7 @@
 layout: page
 title: Lezioni
 permalink: /lezioni/
-description: A feed containing all of the class announcements.
+description: Lezioni del Corso Coding e Big Data - Vincenzo Nardelli
 nav_order: 1
 ---
 

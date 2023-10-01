@@ -37,8 +37,8 @@ Come ultimo passaggio, scorri verso il basso dove ti mostra un pulsante di downl
 Apri il file scaricato e segui le istruzioni di installazione. Ancora una volta, mantieni le impostazioni predefinite il più possibile.
 Congratulazioni, sei pronto per imparare R. D'ora in poi devi solo avviare RStudio e non R. Naturalmente, se sei un tipo curioso, nulla ti impedirà di provare R senza RStudio.
 
-### Personalizzazione di RStudio
-Prima di iniziare a programmare, devi voler apportare subito alcune modifiche alle tue impostazioni per avere un'esperienza migliore (secondo la mia modita opinione). Per aprire le impostazioni di Rstudio devi cliccare su
+### Personalizzazione di RStudio (un consiglio)
+Prima di iniziare a programmare, devi voler apportare subito alcune modifiche alle tue impostazioni per avere un'esperienza migliore (secondo la mia opinione). Per aprire le impostazioni di Rstudio devi cliccare su
 
 RStudio > Preferenceso premere ⌘ + ,se sei su un Mac.
 
@@ -60,6 +60,4 @@ Nella stessa scheda in Workspace, selezionare Never per l'impostazione Save work
 Naturalmente, se desideri personalizzare ulteriormente il tuo spazio di lavoro, puoi farlo. Il modo visivamente più efficace per modificare l'aspetto predefinito di RStudio è selezionare Appearance e scegliere un tema colore completamente diverso. Sentiti libero di navigare tra le varie opzioni e vedere cosa preferisci. Non c'è giusto o sbagliato qui. Fallo tuo.
 
 ## Aggiornare R e RStudio
-Sebbene non sia strettamente qualcosa che ti aiuta a diventare un programmatore migliore, questo consiglio potrebbe tornare utile per evitare di trasformarti in un programmatore frustrato. Quando si aggiorna il software, è necessario aggiornare R e RStudio separatamente l'uno dall'altro. Sebbene sia R che RStudio lavorino a stretto contatto tra loro, costituiscono comunque parti separate di software. Pertanto, è essenziale tenere presente che l'aggiornamento di RStudio non aggiornerà automaticamente R. Ciò può diventare problematico se gli strumenti specifici installati tramite RStudio (come un algoritmo di apprendimento di fantasia) potrebbero non essere compatibili con le versioni precedenti di R . Inoltre, pacchetti R aggiuntivi (vedi Capitolo 3) sviluppati da altri sviluppatori sono pezzi separati che richiedono anche l'aggiornamento, indipendentemente da R e RStudio.
-
-So cosa stai pensando: sembra già complicato e ingombrante. Tuttavia, stai tranquillo, puoi aggiornare facilmente tutti i tuoi pacchetti con RStudio. Pertanto, tutto ciò che devi ricordare è: R deve essere aggiornato separatamente da tutto il resto.
+Sebbene non sia strettamente qualcosa che ti aiuta a diventare un programmatore migliore, questo consiglio potrebbe tornare utile per evitare di trasformarti in un programmatore frustrato. Quando si aggiorna il software, è necessario aggiornare R e RStudio separatamente l'uno dall'altro. Sebbene sia R che RStudio lavorino a stretto contatto tra loro, costituiscono comunque parti separate di software. Pertanto, è essenziale tenere presente che l'aggiornamento di RStudio non aggiornerà automaticamente R.
