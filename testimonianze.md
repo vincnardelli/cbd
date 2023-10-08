@@ -12,7 +12,7 @@ Durante il corso organizzeremo delle lezioni con ospiti che ci racconteranno com
 Inviteremo gli ospiti anche in base al vostro interesse. 
 
 
-[Compila il questionario](){: .btn .btn-blue }
+[Compila il questionario](https://forms.gle/mhM5UTpVq8EkPz368){: .btn .btn-blue }
 
 
 ## Calendario Testimonianze
