@@ -1,0 +1,57 @@
+---
+title: "Adv e marginalità"
+author: "Vincenzo Nardelli"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r input, echo=FALSE}
+inputPanel(
+  sliderInput("costo", label = "Costo prodotto (€):",
+              min = 1, max = 30, value = 3, step = 0.5),
+  sliderInput("prezzo", label = "Prezzo Vendita (€):",
+              min = 1, max = 50, value = 10, step = 0.5),
+  sliderInput("investimento_pubblicitario", label = "Investimento Pubblicitario (€):",
+              min = 0, max = 100000, value = 5000, step = 500),
+  sliderInput("cpa", label = "CPA:",
+              min = 0, max = 10, value = 0.05, step = 0.05),
+  sliderInput("cr", label = "Tasso Conversione (%)",
+              min = 0, max = 20, value = 3, step = 0.5)
+)
+
+renderText({
+costo <- as.numeric(input$costo)
+prezzo <- as.numeric(input$prezzo)
+investimento_pubblicitario <- as.numeric(input$investimento_pubblicitario)
+cpa <- as.numeric(input$cpa)
+cr <- as.numeric(input$cr)
+
+
+prodotti_venduti <- round(investimento_pubblicitario / cpa * cr / 100, 0)
+prodotti_venduti
+
+ricavi <- prezzo * prodotti_venduti
+ricavi
+
+costi_totali <- prodotti_venduti * costo + investimento_pubblicitario
+costi_totali
+
+utile <- ricavi - costi_totali
+utile
+margine <- round(utile/ricavi*100, 2)
+margine
+
+
+print(paste("Vendite:", as.character(prodotti_venduti), " - Ricavi", as.character(ricavi), 
+      " - Costi", as.character(costi_totali)," - Utile", as.character(utile), " - Margine", as.character(margine), "%"))
+})
+```
+
+
+
+
