@@ -30,7 +30,7 @@ Successivamente sarà necessario iscriversi ad uno degli appelli delle sessioni 
 | Gruppo      | Dati                     |
 |-------------|--------------------------|
 | Finanza 1    | [finance_default.csv]({{site.baseurl}}/materiale_progetti/finance_default.csv)      |
-| Finanza 2    | [finance_default.csv]({{site.baseurl}}/materiale_progetti/finance_credit.csv)      |
+| Finanza 2    | [finance_credit.csv]({{site.baseurl}}/materiale_progetti/finance_credit.csv)      |
 | Startup   | [food_delivery.csv]({{site.baseurl}}/materiale_progetti/food_delivery.csv)      |
 | Marketing      | [acquisizione_clienti.csv]({{site.baseurl}}/materiale_progetti/acquisizione_clienti.csv)      |
 
