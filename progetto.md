@@ -22,6 +22,12 @@ Per iscriversi all’esame nella modalità Progetto di gruppo sarà necessario c
 
 Successivamente sarà necessario iscriversi ad uno degli appelli delle sessioni ufficiali per poter registrare il voto. 
 
+| Finanza 1 (15/12)  | Finanza 2 (11/12)     | Startup (15/12)        | Marketing (11/12)  |
+| ------------------ | --------------------- | ---------------------- | ------------------ |
+| Alessandro Varani  | Flavia Pitasi         | Angela Quattrone       | Alessia Morabito   |
+| Consolato Ambrogio | Alessio Candiloro     | Filippo Pavone         | Federico La Forgia |
+| Riccardo Cortese   | Giammassimo Fasanella | Alessandro Della Croce | Antonio Curia      |
+|                    | Antonio La Gamba      |                        | Giacomo Torsello   |
 
 ## 👨🏻‍🏫 Consegna e dati
 
@@ -33,7 +39,6 @@ Successivamente sarà necessario iscriversi ad uno degli appelli delle sessioni 
 | Finanza 2    | [finance_credit.csv]({{site.baseurl}}/materiale_progetti/finance_credit.csv)      |
 | Startup   | [food_delivery.csv]({{site.baseurl}}/materiale_progetti/food_delivery.csv)      |
 | Marketing      | [acquisizione_clienti.csv]({{site.baseurl}}/materiale_progetti/acquisizione_clienti.csv)      |
-
 
 
 
