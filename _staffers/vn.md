@@ -6,4 +6,4 @@ website: https://www.linkedin.com/in/vincnardelli/
 photo: vn.jpg
 ---
 
-[Fissa un ricevimento](https://calendly.com/vincnardelli/cbd){: .btn .btn-outline }
+[Fissa un ricevimento](https://calendly.com/vincenzo-nardelli-unicatt){: .btn .btn-outline }
