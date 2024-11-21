@@ -22,6 +22,18 @@ Per iscriversi all’esame nella modalità Progetto di gruppo sarà necessario c
 
 Successivamente sarà necessario iscriversi ad uno degli appelli delle sessioni ufficiali per poter registrare il voto. 
 
+## 👨🏻‍🏫 Consegna e dati
+
+[Consegna progetto di gruppo]({{site.baseurl}}/materiale_progetti/consegna.pdf){: .btn .btn-blue }
+
+| Gruppo      | Dati                     |
+|-------------|--------------------------|
+| Finanza    | [finance_default.csv]({{site.baseurl}}/materiale_progetti/finance_default.csv)      |
+| Logistica   | [shipping.csv]({{site.baseurl}}/materiale_progetti/shipping.csv)      |
+| Marketing   | [marketing_campaign.csv]({{site.baseurl}}/materiale_progetti/marketing_campaign.csv)      |
+| Sanità      | [heart_disease.csv]({{site.baseurl}}/materiale_progetti/heart_disease.csv)      |
+
+
 
 ## 📕 In cosa consiste
 
