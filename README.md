@@ -1,37 +1,54 @@
 ---
 layout: home
-title: Coding e Big Data 2024/2025
+title: Coding e Big Data 2025/2026
 nav_exclude: false
 nav_order: 1
 permalink: index.html
 seo:
-  type: Coding e Big Data 2024/2025
+  type: Coding e Big Data 2025/2026
   name: Economia e Gestione dei Servizi - Università Cattolica del Sacro Cuore
 ---
 
-# 💻 Coding e Big Data 2024/2025
+# 💻 Coding e Big Data 2025/2026
 
-**Coding e Big Data** è un corso facoltativo del corso di laurea triennale in Economia e Gestione dei Servizi dell'Università Cattolica del Sacro Cuore di Roma. Lo scopo del corso è di fornire una conoscenza di base di programmazione e gestione dati ma soprattutto di formare una sensibilità e pensiero critico nei confronti di queste tematiche.
+**Coding e Big Data** è un corso facoltativo del Corso di Laurea Triennale in *Economia e Gestione dei Servizi* dell'Università Cattolica del Sacro Cuore (sede di Roma).  
+Il corso introduce agli strumenti e alle logiche della programmazione e dell’analisi dei dati, con l’obiettivo non solo di fornire competenze tecniche di base, ma soprattutto di sviluppare **pensiero critico e consapevolezza** verso il ruolo dei dati e degli algoritmi nella società contemporanea.
 
+---
 
-## 👩🏻‍💻 Perchè dovrei seguire il corso?
+## 👩🏻‍💻 Perché seguire il corso?
 
-È un corso **facoltativo** quindi non sei obbigato od obbligata a seguirlo per completare il tuo percorso di studi. 
+Seguendo il corso otterrai **CFU aggiuntivi**, utili anche per l’accesso a corsi di laurea magistrale (informati per tempo!).  
+Al di là del valore curricolare, il vero obiettivo è fornirti **idee, strumenti e conoscenze pratiche** per affrontare il futuro professionale.  
 
+Viviamo in una società in cui le decisioni pubbliche e private sono guidate da dati e algoritmi: comprenderne il funzionamento è indispensabile per chiunque voglia avere un ruolo attivo nel lavoro e nella società.
 
-Sostenendo l'esame otterrai dei CFU aggiuntivi che ti potranno essere utili per poterti iscrivere ad un particolare corso di laurea magistrale (informati prima che sia troppo tardi!). Tolto questo piccolo vantaggio, dal punto di vista della tua *carriera accademica*, potrebbe essere il corso più inutile che seguirai. 
+---
 
+## 👩🏻‍🎓 A chi è rivolto?
 
-L'unico motivo per cui potrebbe essere utile seguire questo corso è ottenere conoscenza, suggerimenti e idee utili per **IL TUO FUTURO**. Non importa quale siano le tue ambizioni o progetti per il tuo futuro lavorativo. Viviamo in una società regolata sempre più da algoritmi e dove la conoscenza è generata grazie all'utilizzo massivo di dati. Essere consapevoli di questi strumenti e tecnologie sarà sempre più fondamentale per prendere decisioni nei prossimi anni. 
+Il corso è pensato per studenti e studentesse di Economia, non per ingegneri informatici o data scientists.  
+Si affronteranno temi tecnici, ma sempre legati ad **applicazioni concrete** in campi come:
 
-## 👩🏻‍🎓 A chi si rivolge il corso?
+- economia e finanza  
+- marketing e startup  
+- sanità e pubblica amministrazione  
 
-A studenti e studentesse del corso triennale di Economia. Non ad ingegneri informatici, statistici o data scientists. Si affronteranno tematiche tecniche ovviamente ma sempre legate ad applicazioni che ti potrannno essere utili come ad esempio analisi economiche, marketing, sanità, startup, finanza, criptovalute, istituzioni. 
+---
 
+## 📘 Struttura del corso
 
-## 📘 Come è strutturato il corso?
+Il programma è un **work in progress**, che si arricchirà settimana dopo settimana grazie ai tuoi feedback.  
 
-Il programma del corso è un **work in progress**. I tuoi feedback saranno utilissimi per poter strutturare, settimana dopo settimana, il corso in base alle curiosità e interessi che raccolgo durante le lezioni. 
+Il percorso seguirà un filo logico chiaro:  
+
+1. **Coding** – basi della programmazione e gestione dei dati  
+2. **Big Data e Machine Learning** – come i dati hanno cambiato le analisi e i processi decisionali  
+3. **LLM e Generative AI** – la rivoluzione attuale: dai modelli di linguaggio come ChatGPT alle nuove forme di intelligenza artificiale generativa  
+
+L’obiettivo è capire **come siamo arrivati fin qui** e sviluppare la capacità di usare in modo consapevole queste tecnologie che stanno trasformando il mondo del lavoro e della conoscenza.
+
+---
 
 ## 📌 Avvisi
 

@@ -24,7 +24,7 @@ schedule:
       - name: Lezione
         start: 11:00 AM
         end: 13:00 AM
-        location: 204
+        location: 201
   - name: Martedì
   - name: Mercoledì
   - name: Giovedì
@@ -33,5 +33,5 @@ schedule:
       - name: Lezione
         start: 09:00 AM
         end: 11:00 AM
-        location: 204
+        location: 201
 ---
