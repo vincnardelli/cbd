@@ -37,6 +37,19 @@ Successivamente sarà necessario iscriversi ad uno degli appelli delle sessioni 
 
 
 
+## Elenco studenti per gruppo
+
+| Gruppo | Studenti |
+|--------|----------|
+| **Retail Moda ** | Alice Mazzara, Mattia Quaiattini, Vincenzo Andrea Suglia |
+| **Immobiliare ** | Eleonora De Angelis, Fabiano Palumbo, Greta Guidi |
+| **Marketing (Campagne) ** | Gabriele Maria Dallatomasina, Giuseppe Rametta, Giulio Scalia, Giulia Maria Rita Ciuni |
+| **Assicurazioni ** | Chiara Corcelli, juan pablo Saucedo, Fabio Ceccio, laura czerwinski |
+| **Finanza ** | Maddalena Montanaro, Michele Morra, Alessia Conforti, Carlotta Tressanti |
+| **Sanità ** | Agnese Romano, Elisa Rufa, Giovanni De Rosa, Francesco Jacopo Gati |
+| **Logistica ** | Ludovica Ranalletta, Chiara Maria Micheli, Emma Biondi, Anna Luna Orso |
+| **Retail (Acquisizione) ** | Pietro Ascatino, Pierugo Taglialmonte, Maria Maddalena Mascia, Alessandra Zampaloni |
+
 ## 📕 In cosa consiste
 
 Ogni team dovrà:
